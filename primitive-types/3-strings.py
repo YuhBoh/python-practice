@@ -23,3 +23,6 @@ print(course[:3])
 print(course[:])
 # Output: Python Programming
 # Will be copy of string
+
+print(course[2:-1])
+# Output: thon Programmin
